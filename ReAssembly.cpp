@@ -1,6 +1,7 @@
 // Reasembling .so (shared object) files from APK RE to Assembly code
 // The .so data is all binary and unreable, so se if i can understand more the functionality of some shared object files 
 // compiled as APK.
+// compiled with: g++ ReAssembly.cpp -o ReAssembly
 
 #include <iostream>
 #include <fstream>
