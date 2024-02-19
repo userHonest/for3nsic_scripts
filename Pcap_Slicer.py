@@ -6,7 +6,14 @@ Colaboration: K3vIn
 Created_Date: 20/03/2023
 Patched: 01/06/2023
 Version 1.1 
-========================================
+
+Requierements modules
+
+scapy
+base64
+binascii
+
+====================================
 """
 # === <Modules> ========================== #
 import argparse
