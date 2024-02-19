@@ -4,6 +4,7 @@
 from PIL import Image
 import sys
 
+
 def pixel(img, ext, pix):
     for h in range(0, img.height):
         for w in range(0, img.width):
