@@ -3,6 +3,7 @@
 #	Program Description: APK Slicer
 #	Author: userHonest
 #	Date: 02/11/23
+#	Tool to list out all HTTP protocols in a APK file
 #------------------------------------------------------#
 
 import os
